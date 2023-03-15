@@ -1,4 +1,12 @@
-## 5 best Content Management Systems to build a website (I).
+---
+title: "5 best Content Management Systems to build a website (I)."
+datePublished: Sun Aug 07 2022 12:39:27 GMT+0000 (Coordinated Universal Time)
+cuid: cl6jbalu404cmdnnv0leq1on6
+slug: 5-best-content-management-systems-to-build-a-website-i
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/xE0RlkfJ41U/upload/v1659875487151/U5S_xDe_k.jpeg
+tags: joomla, wordpress, cms, drupal
+
+---
 
 
 One of the most important things when developing a website is to have an easy-to-use content management system. A content management system is a software program that allows webmasters, or website owners, to manage and update their website. The software is created to be user-friendly and allow for easy access and editing for website owners. Content management systems allow for quick, efficient, and cost-effective website development and are becoming increasingly popular.
